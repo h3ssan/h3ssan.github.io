@@ -1,1 +1,2 @@
-# h3ssan.github.io
+## DEVELOPER VERSION
+### [H3ssan's Blogger](https://H3ssan.github.io)
